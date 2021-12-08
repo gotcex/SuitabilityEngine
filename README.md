@@ -5,3 +5,5 @@ SuitabilityOrk will provide a suitability rule engine with default rules of fina
 3. Entity-master suitabilities
 4. Publishing suitabilities
 5. Multiple dimenstional suitabilities matrix
+6. Trading lifecycle suitabilities
+7. Suitability management and services
